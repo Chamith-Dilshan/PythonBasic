@@ -1,7 +1,7 @@
 def main():
     # The moduler operator
-    number_1 = 20.523
-    number_2 = 3.90736
+    number_1 = 20
+    number_2 = 3
 
     output_1 = number_1 % number_2
     print("Remainder: ", output_1)
@@ -23,7 +23,7 @@ def main():
     print(f"Absolute value : {abs(-50.5)}")
     print(f"power of : {pow(2,3)}")
 
-    # increment and decrement operators (++ and  --) does not work in Python
+    # increment and decrement operators (++ and --) does not work in Python
     # Instead of x++, you can use x += 1
     # Writing ++x in Python just applies the unary plus twice, and does not increment anything:
 
@@ -36,7 +36,6 @@ def main():
     number_3 += 1
 
     print("Try 4 : ",number_3)  # 6
-
 
 if __name__ == "__main__":
     main()
