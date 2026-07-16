@@ -75,7 +75,7 @@ if __name__ == "__main__":
     cart.add('Wireless mouse')
     cart.add('Ergo keyboard')
     cart.add('Monitor')
-
+ 
     for item in cart:
         print(item, end=' ')
 
