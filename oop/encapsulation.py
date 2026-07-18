@@ -2,6 +2,10 @@
 # is the process of hiding the implementation
 # details of a class or module from the outside world.
 
+# Note that this does not prevent the attribute from being accessed or
+# modified outside the class. Also, in Python there's always a way to
+# access private attributes (prefixed with a double underscore) as well.
+
 class Wallet:
     def __init__(self, balance):
        self._balance = balance # For internal use by convention
