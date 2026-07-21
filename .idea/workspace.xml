@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e63b-df87-4490-954b-73c28959a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/name_mangling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building_a_media_catelogue/media_catelogue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/encapsulation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="43" />
+    <option name="cachedIndexableFilesCount" value="45" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -52,6 +50,7 @@
     "Python.handel_object_attributes_dynamically.executor": "Run",
     "Python.inheritance.executor": "Run",
     "Python.isbn_validator.executor": "Run",
+    "Python.media_catelogue.executor": "Run",
     "Python.musical_instrument_inventory.executor": "Run",
     "Python.name_mangling.executor": "Run",
     "Python.polymorphism.executor": "Run",
@@ -81,7 +80,7 @@
       <recent name="C:\SystemApplications\PythonProjects\PythonBasic\building_a_email_simulator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.name_mangling">
+  <component name="RunManager" selected="Python.media_catalogue">
     <configuration name="character_status_tracker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +123,31 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="media_catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonbasic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/building_a_media_catelogue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\SystemApplications\PythonProjects\PythonBasic\building_a_media_catelogue\media_catalogue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,38 +206,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salary_tracker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonbasic" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/building_a_salary_tracker" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/building_a_salary_tracker/salary_tracker.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.media_catalogue" />
         <item itemvalue="Python.name_mangling" />
         <item itemvalue="Python.polymorphism" />
         <item itemvalue="Python.inheritance" />
         <item itemvalue="Python.character_status_tracker" />
-        <item itemvalue="Python.salary_tracker" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +238,7 @@
       <workItem from="1784287222761" duration="5149000" />
       <workItem from="1784352535141" duration="12654000" />
       <workItem from="1784604714983" duration="2328000" />
-      <workItem from="1784616532775" duration="3676000" />
+      <workItem from="1784616532775" duration="8675000" />
     </task>
     <servers />
   </component>
@@ -265,7 +264,8 @@
     <SUITE FILE_PATH="coverage/PythonBasic$salary_tracker.coverage" NAME="salary_tracker Coverage Results" MODIFIED="1784385188384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_salary_tracker" />
     <SUITE FILE_PATH="coverage/PythonBasic$character_status_tracker.coverage" NAME="character_status_tracker Coverage Results" MODIFIED="1784390607833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_character_status_tracker" />
     <SUITE FILE_PATH="coverage/PythonBasic$budget_app.coverage" NAME="budget_app Coverage Results" MODIFIED="1784311266245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_budget_app" />
-    <SUITE FILE_PATH="coverage/PythonBasic$name_mangling.coverage" NAME="name_mangling Coverage Results" MODIFIED="1784621962897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/PythonBasic$name_mangling.coverage" NAME="name_mangling Coverage Results" MODIFIED="1784629700654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/PythonBasic$media_catelogue.coverage" NAME="media_catelogue Coverage Results" MODIFIED="1784650749898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_media_catelogue" />
     <SUITE FILE_PATH="coverage/PythonBasic$properties.coverage" NAME="properties Coverage Results" MODIFIED="1784373493535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/PythonBasic$test.coverage" NAME="test Coverage Results" MODIFIED="1784219357081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
   </component>
