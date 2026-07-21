@@ -6,6 +6,11 @@
 # modified outside the class. Also, in Python there's always a way to
 # access private attributes (prefixed with a double underscore) as well.
 
+#  a single underscore is a convention that means the attribute is meant
+#  for internal use in the class and should not be directly accessed from
+#  outside the class. Double underscore, on the other hand, prevents that
+#  attribute from being accessed directly from outside the class.
+
 class Wallet:
     def __init__(self, balance):
        self._balance = balance # For internal use by convention
