@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e63b-df87-4490-954b-73c28959a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building_a_discount_calculator/discount_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
     "Python.abstraction.executor": "Run",
     "Python.budget_app.executor": "Run",
     "Python.character_status_tracker.executor": "Run",
+    "Python.discount_calculator.executor": "Run",
     "Python.email_simulator (1).executor": "Run",
     "Python.encapsulation.executor": "Run",
     "Python.handel_object_attributes_dynamically.executor": "Run",
@@ -81,7 +82,7 @@
       <recent name="C:\SystemApplications\PythonProjects\PythonBasic\building_a_email_simulator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.abstraction">
+  <component name="RunManager" selected="Python.discount_calculator">
     <configuration name="abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
@@ -107,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="discount_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,14 +117,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/building_a_discount_calculator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/building_a_discount_calculator/discount_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.discount_calculator" />
         <item itemvalue="Python.abstraction" />
         <item itemvalue="Python.media_catalogue" />
         <item itemvalue="Python.name_mangling" />
         <item itemvalue="Python.polymorphism" />
-        <item itemvalue="Python.inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +242,7 @@
       <workItem from="1784604714983" duration="2328000" />
       <workItem from="1784616532775" duration="9359000" />
       <workItem from="1784691325441" duration="2910000" />
-      <workItem from="1784737885871" duration="593000" />
+      <workItem from="1784737885871" duration="1658000" />
     </task>
     <servers />
   </component>
@@ -265,6 +266,7 @@
     <SUITE FILE_PATH="coverage/PythonBasic$handel_object_attributes_dynamically.coverage" NAME="handel_object_attributes_dynamically Coverage Results" MODIFIED="1784212322785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/PythonBasic$abstraction.coverage" NAME="abstraction Coverage Results" MODIFIED="1784738362710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/PythonBasic$email_simulator__1_.coverage" NAME="email_simulator (1) Coverage Results" MODIFIED="1784299905112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_email_simulator" />
+    <SUITE FILE_PATH="coverage/PythonBasic$discount_calculator.coverage" NAME="discount_calculator Coverage Results" MODIFIED="1784743242782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_discount_calculator" />
     <SUITE FILE_PATH="coverage/PythonBasic$salary_tracker.coverage" NAME="salary_tracker Coverage Results" MODIFIED="1784385188384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_salary_tracker" />
     <SUITE FILE_PATH="coverage/PythonBasic$character_status_tracker.coverage" NAME="character_status_tracker Coverage Results" MODIFIED="1784390607833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_character_status_tracker" />
     <SUITE FILE_PATH="coverage/PythonBasic$budget_app.coverage" NAME="budget_app Coverage Results" MODIFIED="1784311266245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_budget_app" />
